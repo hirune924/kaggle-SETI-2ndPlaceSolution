@@ -15,7 +15,7 @@ predict_code                : code to generate predictions from model binaries
 * 1~4 x NVIDIA Tesla-V100-SXM2-32GB 
 
 ## Software
-* This docker image were used.
+* This docker image were used for all executions.
 https://hub.docker.com/r/hirune924/pikachu
 * If you need, you can see requirements.txt.
 
