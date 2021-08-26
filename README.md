@@ -16,7 +16,7 @@ predict_code                : code to generate predictions from model binaries
 
 ## Software
 * This docker image were used for all executions.
-https://hub.docker.com/r/hirune924/pikachu
+    - https://hub.docker.com/r/hirune924/pikachu
 * If you need, you can see requirements.txt.
 
 ## Data setup 
@@ -27,4 +27,6 @@ kaggle competitions download -c seti-breakthrough-listen
 unzip seti-breakthrough-listen.zip
 ```
 ## Training
-## Inference
+[Training Process](train/README.md)
+## Prediction
+[Prediction Process](train/README.md)
