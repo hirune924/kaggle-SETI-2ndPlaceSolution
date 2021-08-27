@@ -1,5 +1,6 @@
 # Prediction process
-
+Here is the inference process for reproducing the final submission.
+The following script is intended to be run from the same directory hierarchy as this README.
 * predict1
 ```
 python inference.py batch_size=100 model_name=tf_efficientnet_b5_ns data_dir=${DATA_DIR} output_dir=${PRED_RESULT_DIR} model_dir=ckpts/22021941 submission_fname=22021941-submission.csv

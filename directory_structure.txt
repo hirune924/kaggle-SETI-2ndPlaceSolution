@@ -1,2 +1,22 @@
-TODO
-find . -type d > directory_structure.txt
+.
+./predict
+./predict/blend_result
+./predict/ckpts
+./predict/ckpts/22021941
+./predict/ckpts/22021976
+./predict/ckpts/22021977
+./predict/ckpts/22022048
+./predict/ckpts/22022067
+./predict/pred_result
+./train
+./train/final
+./train/final/22021766
+./train/final/22021941
+./train/final/22021976
+./train/final/22021977
+./train/final/22022048
+./train/final/22022067
+./train/step1
+./train/step2
+./train/step3
+./train/step4

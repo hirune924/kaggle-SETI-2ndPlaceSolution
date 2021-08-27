@@ -1,5 +1,6 @@
 # Train process
 Steps 1 through 4 are for creating pseudo labels. And the final step is to train the model for the final predict.
+The following script is intended to be run from the same directory hierarchy as this README.
 ## step1
 * step1 train
 ```
